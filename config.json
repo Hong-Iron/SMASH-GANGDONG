@@ -1,0 +1,69 @@
+{
+  "code": "GANGDONG",
+  "title": "SMASH GANGDONG",
+  "school": "강동대",
+  "fullName": "강동대학교",
+  "campusName": "강동대학교",
+  "tagline": "강동대를 부셔 (시험기간 스트레스 해소)",
+  "description": "강동대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 강동대학교 3D 화면과 SMASH GANGDONG 제목",
+  "url": "https://hong-iron.github.io/SMASH-GANGDONG/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 996242072
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "가동": {
+      "style": "stone",
+      "wall": "#d6d5ce",
+      "glass": "#5f676c",
+      "frame": "#98989a"
+    },
+    "하-1동": {
+      "style": "glass",
+      "wall": "#c6c7ca",
+      "glass": "#718b90",
+      "frame": "#8a9ba0"
+    },
+    "터동": {
+      "style": "tan",
+      "wall": "#e3bf98",
+      "glass": "#5a5f5c",
+      "frame": "#f4eedf"
+    },
+    "다동": {
+      "style": "stone",
+      "wall": "#a69e92",
+      "glass": "#45474a",
+      "frame": "#7a7974"
+    },
+    "바동": {
+      "style": "stone",
+      "wall": "#e0dedb",
+      "glass": "#3f4448",
+      "frame": "#858f98"
+    },
+    "아동": {
+      "style": "ribbon",
+      "wall": "#e1e1df",
+      "glass": "#7fa596",
+      "frame": "#acaeae"
+    },
+    "사동": {
+      "style": "stone",
+      "wall": "#d9dde0",
+      "glass": "#576666",
+      "frame": "#8d9aa2"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
