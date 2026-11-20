@@ -1,0 +1,34 @@
+{
+ "region": "충북 음성군 감곡면",
+ "nameEn": "Gangdong University",
+ "added": "2026-11-01T02:27",
+ "rank": 177,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "FEU",
+   "campus": "극동대학교",
+   "km": 1.6
+  },
+  {
+   "code": "YEOJU",
+   "campus": "여주대학교",
+   "km": 14.4
+  },
+  {
+   "code": "KDU-WONJU",
+   "campus": "경동대학교 메디컬캠퍼스",
+   "km": 19.0
+  },
+  {
+   "code": "DOOWON",
+   "campus": "두원공과대학교 안성캠퍼스",
+   "km": 21.8
+  },
+  {
+   "code": "CHUNGKANG",
+   "campus": "청강문화산업대학교",
+   "km": 27.0
+  }
+ ]
+}
